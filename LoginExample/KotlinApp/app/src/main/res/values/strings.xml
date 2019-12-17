@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginSampleKotlin</string>
+    <string name="create_account_signup">Create Account ? Signup</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="email_address">Email Address</string>
+    <string name="email">Email</string>
+    <string name="welcome">Welcome..</string>
+</resources>

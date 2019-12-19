@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Random User</string>
+    <string name="dob">DOB :%1$s</string>
+    <string name="city">City :%1$s</string>
+    <string name="full_name">%1$s</string>
+    <string name="gender">%1$s</string>
+
+    <string name="image_description">User Image</string>
+    <string name="registered_on">Registered on:</string>
+    <string name="account_info">Account Info</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="dateofbirth">DOB</string>
+    <string name="username">User Name</string>
+    <string name="email">Email</string>
+    <string name="id">ID</string>
+
+    <string name="universal">%1$s</string>
+</resources>

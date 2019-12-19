@@ -22,6 +22,6 @@ This source is open for anyone.
 
 To use this application clone or download zip file.
 1) Host web service on IIS server
-2) Change ip address inside the application that map with your local or server url
+2) Change ip address inside the application "Constants.kt" that map with your local or server url
 3) Build app and you are readu to use.
 4) Enjoy
